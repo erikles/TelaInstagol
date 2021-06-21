@@ -29,11 +29,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
+    width: 70%;
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 70rem;
 }
 
 .instagram-continue {
@@ -51,13 +51,13 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #ffffff;
-    width: 100%;
+    width: 80%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
 }
 
 .group:nth-child(1) {
-    min-height: 19rem;
+    min-height: 15rem;
 }
 
 .instagram-logo {
@@ -68,23 +68,22 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
     overflow: hidden;
 }
 
 .profile-photo img {
-    height: 6rem;
+    height: 8rem;
 }
 
-.instagram-login {
-    background-color: #0095f6;
+.Instagram-login {
+    background-color: #15b406;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
 }
 
-.instagram-logout {
-    color: #0095f6;
+.Instagram-logout {
+    color: #15b406;
     margin-top: 1rem;
 }
 
@@ -93,7 +92,7 @@ body {
 }
 
 .link-blue {
-    color: #0095f6;
+    color: #15b406;
 }
 
 .get-the-app {
